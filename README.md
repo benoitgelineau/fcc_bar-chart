@@ -1,1 +1,1 @@
-# fcc_bar-chart
+# Bar Chart
